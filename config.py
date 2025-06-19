@@ -8,3 +8,5 @@ font_normal = 'Arial'
 font_bold = 'Arial-Bold'
 
 output_pdf_path = "Output/generated_resume.pdf"
+
+openai_api_key = "sk-proj-..."  # вставь свой реальный ключ здесь
