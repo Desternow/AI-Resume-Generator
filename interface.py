@@ -201,10 +201,3 @@ Wherever there is a name and date, put enters after the name and date instead of
             self.result_box.setPlainText(result)
         except Exception as e:
             self.result_box.setPlainText(f"❌ Error:\n{e}")
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
-    sys.exit(app.exec_())
