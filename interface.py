@@ -5,6 +5,7 @@ from openai import OpenAI
 from pdf_generator import draw_resume, parse_resume
 from config import output_pdf_path
 
+
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
@@ -106,8 +107,8 @@ class MainWindow(QtWidgets.QMainWindow):
             self.image_path = file_name
 
     def generate_profile_text(self):
-        api_key = ""
-        client = OpenAI(api_key=api_key)
+        from config import openai_api_key
+        client = OpenAI(api_key=openai_api_key)
 
         data = {k: self.text_edits[k].toPlainText().strip() for k in self.text_edits}
 
