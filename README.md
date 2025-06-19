@@ -2,23 +2,23 @@
 [Eng]
 An application with a graphical interface that helps to create basic but fast professional resumes in PDF format. The user fills in the fields, and the AI ​​supplements or clarifies the description, following strictly specified rules.
 
-Installation
+Installation:
 Before use, install the necessary dependencies:
 pip install reportlab PyQt5 openai
 
-Launch
+Launch:
 Launch is performed via python main.py
 After launch, a window will open in which you can fill out the form.
 
-Sample output
+Sample output:
 The program creates the Output/generated_resume.pdf file (as specified in the config). It will contain a strictly formatted resume that meets the specified rules.
 
-License
+License:
 This project is provided "as is", without any warranties. Use and modify at your own discretion.
 
 Basic modifications to change the font and specify the path to the final file can be made through the config.py file.
 
-Writing Rules
+Writing Rules:
 For each text block that requires a specific format, a standardized example of formatting is provided. It serves as an example of the correct text structure for this block.
 
 What is not important:
@@ -59,23 +59,23 @@ Reading science fiction, running, traveling
 [Rus]
 Приложение с графическим интерфейсом, помогающее создовать базовые но быстрые профессиональные резюме в формат PDF. Пользователь заполняет поля, а ИИ дополняет или уточняет описание, следуя строго заданным правилам.
 
-Установка
+Установка:
 Перед использованием установите необходимые зависимости:
 pip install reportlab PyQt5 openai
 
-Запуск
+Запуск:
 Запуск осуществляется через python main.py
 После запуска откроется окно, в котором можно заполнить форму.
 
-Пример вывода
+Пример вывода:
 Программа создает файл Output/generated_resume.pdf (как указано в конфиге). Он будет содержать строго отформатированное резюме, соответствующее заданным правилам.
 
-Лицензия
+Лицензия:
 Данный проект предоставляется «как есть», без каких-либо гарантий. Используйте и изменяйте по своему усмотрению.
 
 Базовые доработки по изменению шрифта и указанию пути к конечному файлу можно сделать через файл config.py.
 
-Правила написания
+Правила написания:
 Для каждого текстового блока, требующего определенного формата, приводится стандартизированный пример форматирования. Он служит примером правильной структуры текста для этого блока.
 
 Что не важно:
