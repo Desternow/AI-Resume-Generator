@@ -106,7 +106,7 @@ class MainWindow(QtWidgets.QMainWindow):
             self.image_path = file_name
 
     def generate_profile_text(self):
-        api_key = "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"
+        api_key = ""
         client = OpenAI(api_key=api_key)
 
         data = {k: self.text_edits[k].toPlainText().strip() for k in self.text_edits}
