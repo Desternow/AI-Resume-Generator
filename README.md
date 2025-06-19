@@ -5,6 +5,7 @@ An application with a graphical interface that helps to create basic but fast pr
 Installation:
 Before use, install the necessary dependencies:
 pip install reportlab PyQt5 openai
+You also need to go to config.py and enter your "api key" in openai_api_key.
 
 Launch:
 Launch is performed via python main.py
@@ -62,6 +63,7 @@ Reading science fiction, running, traveling
 Установка:
 Перед использованием установите необходимые зависимости:
 pip install reportlab PyQt5 openai
+Вам также необходимо перейти в config.py и ввести свой «ключ API» в openai_api_key.
 
 Запуск:
 Запуск осуществляется через python main.py
