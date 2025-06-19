@@ -27,33 +27,33 @@ What is not important:
 - You can skip blocks not marked with "*"
 
 Use examples:
-- Profile
+- Profile:
 Responsible, creative, detail-oriented, analytical, communicative, self-motivated
 — or —
 I am a motivated and adaptable developer with strong problem-solving skills and attention to detail.
-- Employment History
+- Employment History:
 ABC Tech, 2021–2024, I developed and maintained scalable backend systems in Python;
 DataSys, 2019–2021, I worked on internal tools as a junior developer;
-- Education
+- Education:
 Tallinn University of Technology, 2015–2019, I earned a Bachelor’s degree in Computer Science;
 Open University, 2020–2021, I studied data analysis and machine learning;
-- Internships
+- Internships:
 NetGroup, Summer 2018, I assisted in frontend development and UI testing;
 Telia, Summer 2017, I supported the IT team with hardware setup and software updates;
-- Courses
+- Courses:
 Machine Learning Specialization, 2023;
 Web Development Bootcamp, 2022;
-- Skills
+- Skills:
 Python, 5;
 JavaScript, 4;
 SQL, 5;
 Git, 5;
 Docker, 4;
-- Languages
+- Languages:
 English, B2;
 Estonian, C1;
 Russian, Native;
-- Hobbies
+- Hobbies:
 Reading science fiction, running, traveling
 
 [Rus]
@@ -84,31 +84,31 @@ pip install reportlab PyQt5 openai
 - Можно пропускать блоки не помеченные "*"
 
 Примеры использования:
-- Profile (Профиль)
+- Profile (Профиль):
 Ответственный, креативный, ориентированный на детали, аналитический, коммуникабельный, самомотивированный
 — или —
 Я мотивированный и легко адаптирующийся разработчик с сильными навыками решения проблем и вниманием к деталям.
-- Employment History (История трудоустройства)
+- Employment History (История трудоустройства):
 ABC Tech, 2021–2024, я разрабатывал и поддерживал масштабируемые бэкэнд-системы на Python;
 DataSys, 2019–2021, я работал над внутренними инструментами в качестве младшего разработчика;
-- Education (Образование)
+- Education (Образование):
 Таллиннский технический университет, 2015–2019, я получил степень бакалавра в области компьютерных наук;
 Открытый университет, 2020–2021, я изучал анализ данных и машинное обучение;
-- Internships (Стажировки)
+- Internships (Стажировки):
 NetGroup, лето 2018, я помогал в разработке фронтенда и тестировании пользовательского интерфейса;
 Telia, лето 2017 г., я поддерживал ИТ-команду с настройкой оборудования и обновлениями программного обеспечения;
-- Courses (Курсы)
+- Courses (Курсы):
 Специализация по машинному обучению, 2023 г.;
 Учебный лагерь по веб-разработке, 2022 г.;
-- Skills (Навыки)
+- Skills (Навыки):
 Python, 5;
 JavaScript, 4;
 SQL, 5;
 Git, 5;
 Docker, 4;
-- Languages (Языки)
+- Languages (Языки):
 Английский, B2;
 Эстонский, C1;
 Русский, родной;
-- Hobbies (Увлечения)
+- Hobbies (Увлечения):
 Чтение научной фантастики, бег, путешествия
