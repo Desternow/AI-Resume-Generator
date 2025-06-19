@@ -170,11 +170,11 @@ Expand the following short description into a concise paragraph with 1-3 sentenc
 {data.get('Hobbies (1-3 your hobbies)', '')}
 
 Rules:
-IN NO EVENT SHOULD THE TOTAL WORD NUMBER FOR Employment History + Education + Internships EXCEED 200.
+IN NO EVENT SHOULD THE TOTAL WORD NUMBER FOR Employment History + Education + Internships EXCEED 150.
 For each item in [Employment History], [Education], and [Internships], you must include exactly 3 lines only:
 Line 1: Name of company, school, or organization
 Line 2: Dates (e.g. 2021–2024)
-Line 3: Description (average 20-25 words)
+Line 3: Description (1 sentence, average 20–25 words)
 Never add a 4th line or any additional explanation. Do not split the description into multiple lines.
 You must strictly follow this 3-line format for every entry, in every language, without exceptions.
 YOU MUST FOLLOW ALL THE RULES, REGARDLESS OF THE LANGUAGE YOU WRITE IN.
@@ -182,7 +182,7 @@ Format the text in the language in which the data was entered, do not change the
 DON'T FORGET TO WRITE THE TITLE OF THE PARAGRAPHS (WHAT'S IN []) IF THERE IS INFORMATION ABOUT THEM.
 If there is data for a section, always write its name in square brackets exactly as shown, then write the content. Do not skip or delete section names if the previous condition is met.
 You are writing a resume. Write in the first person, always "I". 
-Write briefly, no more than 40 words, 20-25 on average. 
+Write briefly, no more than 35 words, 20-25 on average. 
 Wherever there is a name and date, put enters after the name and date instead of ",". 
 """
 
